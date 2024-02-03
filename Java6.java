@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Java6 
 {
     public ArrayList<Integer> firstAndLast(int arr[], int n, int x){
